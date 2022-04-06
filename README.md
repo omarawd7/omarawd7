@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omarawd7
-- 👀 I’m interested in Programing anf Software engineering
-- 🌱 I’m currently learning Computer Science 
+- 👀 I’m interested in Programing and Software engineering
+- 🌱 I’m currently Studing Computer Science 
 - 📫 How to reach me By my linkdin Account https://www.linkedin.com/in/omar-awad-bb9ab4211/
 
 <!---
