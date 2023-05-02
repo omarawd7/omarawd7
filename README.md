@@ -7,6 +7,7 @@
  <!--- omarawd7/omarawd7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.---> 
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarawd7&show_icons=true&locale=en&layout=compact" alt="omarawd7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarawd7&show_icons=true&locale=en" alt="omarawd7" /></p>
