@@ -6,7 +6,3 @@
 - ![](https://komarev.com/ghpvc/?username=omarawd7&color=orange&style=for-the-badge)
  <!--- omarawd7/omarawd7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.---> 
 
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarawd7&" alt="omarawd7" /></p>
